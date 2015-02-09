@@ -3,7 +3,7 @@ swell
 flying
 falling
 swerving
-<<<<<<< HEAD
+
 looping
 another change
 >>>>>>> 632b683b2d910fe342c2a94d7e3c233a01058209
